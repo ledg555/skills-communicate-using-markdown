@@ -15,7 +15,14 @@ Insert a table with
 ```
 /table
 ```
-And insert a tasklist in an issue description with
+And insert a tasklist in an issue or PR description (includes progress indicator) with
 ```
 /tasklist
 ```
+## An example of tasklist
+JS tools I must know:
+- [x] JavaScript
+- [x] TypeScript
+- [ ] React
+- [ ] Next
+- [ ] Astro
